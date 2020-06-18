@@ -1,6 +1,13 @@
 # To-Do-List
 A simple Todo List maker, using CSS, JS and jQuery
 
-It's window looks as follows
+Here we can can add, delete, or strike through items in the list.
 
-[alt-text](https://github.com/AlacritousCreature/To-Do-List/blob/master/pic1.png)
+It's window looks as follows:
+
+![alt-text](https://github.com/AlacritousCreature/To-Do-List/blob/master/pic1.png)
+
+When hovered over any list item, it asks to delete the item.
+
+![alt-text](https://github.com/AlacritousCreature/To-Do-List/blob/master/pic2.png)
+
