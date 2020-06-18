@@ -7,7 +7,7 @@ It's window looks as follows:
 
 ![alt-text](https://github.com/AlacritousCreature/To-Do-List/blob/master/pic1.png)
 
-When hovered over any list item, it asks to delete the item.
+When hovered over any item in the list, it asks to delete the item.
 
 ![alt-text](https://github.com/AlacritousCreature/To-Do-List/blob/master/pic2.png)
 
